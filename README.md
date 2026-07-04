@@ -29,7 +29,6 @@ I’m currently building an AI-powered educational MVP called **Sagoro**, and ex
 **Sagoro – AI Learning Companion**  
 An AI-based educational platform helping students through smart Q&A, study planning, and progress tracking.
 
-🔗 [Visit Project Website](https://dreamershorizon.com)  
 🔗 [GitHub Repository](https://github.com/csesaidul/sagoro.git)
 
 ---
@@ -45,8 +44,7 @@ An AI-based educational platform helping students through smart Q&A, study plann
 
 ### 📫 Contact Me
 
-- 📧 Email: [01saidul01@gmail.com](mailto:01saidul01@gmail.com)  
-- 🌐 Portfolio: [dreamershorizon.com](https://dreamershorizon.com)
+- 📧 Email: [01saidul01@gmail.com](mailto:01saidul01@gmail.com)
 
 ---
 
