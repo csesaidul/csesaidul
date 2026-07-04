@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-I'm a 2nd-year Computer Science & Engineering student at Netrokona University, Bangladesh.  
+I'm a 3rd-year Computer Science & Engineering student at Netrokona University, Bangladesh.  
 Over the past few months, I’ve been diving deep into **Flutter**, **Firebase**, and **UI/UX design tools** like **Figma** and **FlutterFlow**.
 
 I’m currently building an AI-powered educational MVP called **Sagoro**, and exploring opportunities in **freelancing and software development**.
