@@ -11,8 +11,6 @@
 I'm a 3rd-year Computer Science & Engineering student at Netrokona University, Bangladesh.  
 Over the past few months, I’ve been diving deep into **Flutter**, **Firebase**, and **UI/UX design tools** like **Figma** and **FlutterFlow**.
 
-I’m currently building an AI-powered educational MVP called **Sagoro**, and exploring opportunities in **freelancing and software development**.
-
 ---
 
 ### 🛠️ Tech Stack
@@ -21,15 +19,6 @@ I’m currently building an AI-powered educational MVP called **Sagoro**, and ex
 - **Backend:** Firebase Auth, Firestore, Cloud Functions  
 - **UI/UX Design:** Figma, Adobe XD, FlutterFlow  
 - **Other Skills:** HTML, C, Python, Data Entry, Blender (Basic)
-
----
-
-### 🚀 Current Project
-
-**Sagoro – AI Learning Companion**  
-An AI-based educational platform helping students through smart Q&A, study planning, and progress tracking.
-
-🔗 [GitHub Repository](https://github.com/csesaidul/sagoro.git)
 
 ---
 
