@@ -77,17 +77,6 @@ I work in small, reviewable steps, document decisions as I go, and care about of
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=csesaidul&show_icons=true&hide_border=true&theme=transparent&title_color=667eea&icon_color=667eea&text_color=6b7280" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csesaidul&layout=compact&hide_border=true&theme=transparent&title_color=667eea&text_color=6b7280" alt="Top languages" height="165" />
-
-</div>
-
----
-
 ## Contact
 
 Open to freelance projects and collaboration.
